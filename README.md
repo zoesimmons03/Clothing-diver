@@ -1,2 +1,2 @@
 # SQL-Practice
-Hi welcome to an epic exploration of a dataset i have not yet deicded on but will be added soon! Hurray!!
+Hi welcome to an epic exploration of a dataset I have yet to deicde on/add but big things coming soon... Hurray!!
